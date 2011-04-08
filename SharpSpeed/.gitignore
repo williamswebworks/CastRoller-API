@@ -1,7 +1,0 @@
-Sharpnote.Tests/
-bin/*.xml
-Depends/*.xml
-Sharpnote/obj
-Sharpnote/bin
-Sharpnote.obj
-Sharpnote.suo
